@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1e0700a2-5183-4291-85cc",
+    "type": "invoice",
+    "amount": "2000",
+    "currency": "GRN"
+  },
+  {
+    "id": "a30f821b-4d25-4ff0-abdd",
+    "type": "withdrawal",
+    "amount": "8500",
+    "currency": "RUB"
+  },
+  {
+    "id": "44dca67a-8e5a-4798-bf8e",
+    "type": "deposit",
+    "amount": "1000",
+    "currency": "CH"
+  },
+  {
+    "id": "ea8ed3dc-2b68-4a53-905a",
+    "type": "payment",
+    "amount": "86300",
+    "currency": "RUB"
+  },
+  {
+    "id": "ea76146a-0b00-4b80-bc02",
+    "type": "payment",
+    "amount": "673",
+    "currency": "USD"
+  },
+  {
+    "id": "ed0263e8-59a5-4bf1-87e0",
+    "type": "invoice",
+    "amount": "1500",
+    "currency": "GRN"
+  },
+  {
+    "id": "63ca02f9-d637-46b5-9237",
+    "type": "invoice",
+    "amount": "950",
+    "currency": "EUR"
+  }
+]

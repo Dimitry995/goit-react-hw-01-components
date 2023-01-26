@@ -1,0 +1,38 @@
+[
+  {
+    "avatar": "https://i.ibb.co/6P4pwYZ/ko.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1813
+  },
+  {
+    "avatar": "https://i.ibb.co/P1pQ8fc/denjpg.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.ibb.co/r6VttCV/Ajax-Amsterdam.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://i.ibb.co/mTwcb9b/ku.jpg",
+    "name": "Bogdan",
+    "isOnline": true,
+    "id": 1715
+  },
+  {
+    "avatar": "https://i.ibb.co/Dpb9VHr/po.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  },
+  {
+    "avatar": "https://i.ibb.co/CtN00Tq/di.jpg",
+    "name": "Diana",
+    "isOnline": false,
+    "id": 1559
+  }
+]
